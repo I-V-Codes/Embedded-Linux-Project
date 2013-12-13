@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Ivan's Embedded Linux Project
+</title>
+</head>
+<body>
+<h1>HOME SECURITY SYSTEM</h1>
+<p>
+	Welcome to your home security system. You may access any of your home sensors
+from below. when selecting your desire Home sensor you will see the data to that sensor respectfully.
+<ul>
+<li><a href = "file:/home/pi/files/school/Projects/Embedded/Scripts/House%20Lights">House Lights</a></li>
+<li><a href = "file:/home/pi/files/school/Projects/Embedded/Scripts/Exterior%20Motion%20Sensor">Exterior Motion Sensor</a></li>
+<li><a href = "file:/home/pi/files/school/Projects/Embedded/Scripts/Alarm">Alarm</a></li>
+</ul>
+</p>
+</body>
+</html>
